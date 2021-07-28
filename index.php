@@ -1,6 +1,6 @@
 <?php
 
 
-include_once("courses.html");
+include_once("course.html");
 
 ?>
